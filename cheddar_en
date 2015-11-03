@@ -1,0 +1,18 @@
+[
+  {
+    "match": "Who are you?",
+    "cheddar": "Hi! I'm Cheese, your assistant!"
+  }, 
+  {
+    "match": "Who you are?",
+    "cheddar": "Hi! I'm Cheese, your assistant!"
+  },
+  {
+    "match": "What are you?",
+    "cheddar": "Hi! I'm Cheese, your assistant!"
+  },
+  {
+    "match": "What you are?",
+    "cheddar": "Hi! I'm Cheese, your assistant!"
+  }
+]
