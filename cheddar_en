@@ -7,12 +7,12 @@
       
     }, 
     {
-      "match": "Who you are",
+      "match": "who you are",
       "cheddar": "Hi! I'm Cheese, your assistant!"
       
     },
     {
-      "match": "What are you",
+      "match": "what are you",
       "cheddar": "I'm a software developed by Gio"
       
     }
