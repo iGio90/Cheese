@@ -4,21 +4,19 @@
     {
       "match": [
           "How are you?"
-        ]
+        ],
       "cheddar": "I'm fine thanks! What about you?"
     }, 
     {
       "match": [
           "Who you are?"
-        ]
-      "cheddar": [
-          "I'm Cheese, your assistant!"
-        ]
+        ],
+      "cheddar": "I'm Cheese, your assistant!"
     },
     {
       "match": [
           "What are you?"
-        ]
+        ],
       "cheddar": "I'm a software developed by Gio"
     }
   ],
@@ -29,7 +27,7 @@
       "match": [
           "hi cheese",
           "hey cheese"
-        ]
+        ],
       "parmesan": "Hi $name, how can I help you with"
     }
   ]
