@@ -2,17 +2,17 @@
   "cheddar_version": 1,
   "cheddar": [
     {
-      "match": "how are you",
+      "match": "How are you?",
       "cheddar": "I'm fine thanks! What about you?"
       
     }, 
     {
-      "match": "who you are",
+      "match": "Who are you?",
       "cheddar": "Hi! I'm Cheese, your assistant!"
       
     },
     {
-      "match": "what are you",
+      "match": "What are you?",
       "cheddar": "I'm a software developed by Gio"
       
     }
