@@ -1,5 +1,6 @@
 {
   "cheddar_version": 1,
+  "parmesan_version": 1,
   "cheddar": [
     {
       "match": [
@@ -22,7 +23,6 @@
       "cheddar": "I'm a software developed by Gio"
     }
   ],
-  "parmesan_version": 1,
   "parmesan" : [
     {
       "description": "the action to wake up cheese",
