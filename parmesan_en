@@ -18,6 +18,12 @@
           "What are you?"
         ],
       "parmesan": "I'm a software developed by Gio"
+    },
+    {
+      "match": [
+          "Who is Shy?"
+        ],
+      "parmesan": "Is a gay that live with Gio"
     }
   ]
 }
