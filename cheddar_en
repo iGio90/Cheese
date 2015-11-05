@@ -33,7 +33,7 @@
           "what time is it",
           "what's the time"
         ],
-      "cheddar": "It's $time in the $dayphase"
+      "cheddar": "It's $time in the !dayphase"
     },
     {
       "description": "the action to ask the weather for the current location",
@@ -42,7 +42,7 @@
           "what's the weather",
           "what's the weather like"
         ],
-      "cheddar": "ok"
+      "cheddar": "!weather. !temperature"
     }
   ]
 }
