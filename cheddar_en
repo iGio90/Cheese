@@ -22,13 +22,8 @@
       "cheddar": "Ok. See you later $name"
     },
     {
-      "description": "the action that clearcheese. No match, triggered by system",
-      "action_id": 2,
-      "cheddar": "Ok, can I do anything else?"
-    },
-    {
       "description": "the action to ask the time",
-      "action_id": 3,
+      "action_id": 2,
       "match": [
           "current time",
           "what time is it",
