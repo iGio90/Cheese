@@ -29,6 +29,14 @@
           "what's the time"
         ],
       "cheddar": "It's $time in the $dayphase"
+    },
+    {
+      "description": "the action to ask for the weather",
+      "action_id": 3,
+      "match": [
+          "what's the weather"
+        ],
+      "cheddar": "weatbher"
     }
   ]
 }
