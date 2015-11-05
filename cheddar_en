@@ -9,6 +9,17 @@
           "Hey cheese!"
         ],
       "cheddar": "Hi $name, how can I help you with"
+    },
+    {
+      "description": "the action to close cheese",
+      "action_id": 1,
+      "match": [
+          "Bye",
+          "Goodbye",
+          "Close yourself",
+          "Stop yourself"
+        ],
+      "cheddar": "Ok. See you later $name"
     }
   ]
 }
