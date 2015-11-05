@@ -5,8 +5,8 @@
       "description": "the action to wake up cheese",
       "action_id": 0,
       "match": [
-          "Hi cheese!",
-          "Hey cheese!"
+          "hi cheese",
+          "hey cheese"
         ],
       "cheddar": "Hi $name, how can I help you with"
     },
@@ -14,12 +14,27 @@
       "description": "the action to close cheese",
       "action_id": 1,
       "match": [
-          "Bye",
-          "Goodbye",
-          "Close yourself",
-          "Stop yourself"
+          "bye",
+          "goodbye",
+          "close yourself",
+          "stop yourself"
         ],
       "cheddar": "Ok. See you later $name"
+    },
+    {
+      "description": "the action that clearcheese. No match, triggered by system",
+      "action_id": 2,
+      "cheddar": "Ok, can I do anything else?"
+    },
+    {
+      "description": "the action to ask the time",
+      "action_id": 3,
+      "match": [
+          "current time",
+          "what time is it",
+          "what's the time"
+        ],
+      "cheddar": "It's $time in the $dayphase"
     }
   ]
 }
