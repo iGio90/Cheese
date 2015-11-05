@@ -3,6 +3,7 @@
   "cheddar" : [
     {
       "description": "the action to wake up cheese",
+      "action_id": 0,
       "match": [
           "hi cheese",
           "hey cheese"
