@@ -1,0 +1,53 @@
+{
+  "roquefort_version": 1,
+  "roquefort" : [
+    {
+      "roquefort_identifier": "hicheese",
+      "roquefort": [
+        "Hi $name, how can I help you with?",
+        "Hi $name, what can I do for you?"
+      ]
+    },
+    {
+      "roquefort_identifier": "byecheese",
+      "roquefort": [
+        "Ok! See you later $name.",
+        "Ok! Goodbye $name."
+      ]
+    },
+    {
+      "roquefort_identifier": "skillslist",
+      "roquefort": [
+        "Here is a list of things I can do.",
+        "I can do so much awesome things. Here is the list!"
+      ]
+    },     
+    {
+      "roquefort_identifier": "time",
+      "roquefort": [
+        "It's $time in the $dayphase"
+      ]
+    },
+    {
+      "roquefort_identifier": "time",
+      "roquefort": [
+        "It's $time in the $dayphase" 
+      ]
+    },
+    {
+      "roquefort_identifier": "calc",
+      "roquefort": [
+        "It should be $calc. But this was easy!",
+        "I think the result is $calc",
+        "$calc. But this doesn't mean I'm smarter then you."
+      ]
+    },
+    {
+      "roquefort_identifier": "weather",
+      "roquefort": [
+        "$condition. The temperature outside is $temperature",
+        "$temperature and $condition" 
+      ]
+    }
+  ]
+}
