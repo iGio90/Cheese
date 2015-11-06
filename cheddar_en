@@ -100,7 +100,7 @@
           "make a call",
           "call someone"
         ]
-      "roquefort": "weather"
+      "roquefort": "call_someone"
     },
     {
       "name": "Weather",

@@ -152,6 +152,12 @@
       "roquefort": [
         "There is a lot of fog the moment"
       ]
+    },
+    {
+      "roquefort_identifier": "call_someone",
+      "roquefort": [
+        "Ok, choose a contact from the list or write the number"
+      ]
     }
   ]
 }
