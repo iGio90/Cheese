@@ -25,13 +25,7 @@
     {
       "roquefort_identifier": "time",
       "roquefort": [
-        "It's $time in the $dayphase"
-      ]
-    },
-    {
-      "roquefort_identifier": "time",
-      "roquefort": [
-        "It's $time in the $dayphase" 
+        "It's $time" 
       ]
     },
     {
