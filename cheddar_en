@@ -56,7 +56,8 @@
       "description": "Get the current date",
       "cheddar_action_id": 10002,
       "match": [
-          "date"
+          "date",
+          "what's the date"
         ],
       "hyps": [
           "date is today",
@@ -90,7 +91,7 @@
     {
       "name": "Weather",
       "description": "Get the current weather",
-      "cheddar_action_id": 30002,
+      "cheddar_action_id": 30001,
       "match": [
           "what's the weather",
           "what's the weather like"
