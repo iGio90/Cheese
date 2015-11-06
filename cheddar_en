@@ -2,7 +2,7 @@
   "cheddar_version": 1,
   "cheddar" : [
     {
-      "description": "the action to wake up cheese",
+      "description": "wake up cheese",
       "cheddar_action_id": 0,
       "match": [
           "hi cheese",
@@ -14,7 +14,7 @@
       "cheddar": "Hi $name, how can I help you with?"
     },
     {
-      "description": "the action to close cheese",
+      "description": "close cheese",
       "cheddar_action_id": 1,
       "match": [
           "bye cheese",
@@ -27,7 +27,7 @@
       "cheddar": "Ok. See you later $name"
     },
     {
-      "description": "the action to ask the time",
+      "description": "get the time",
       "cheddar_action_id": 2,
       "match": [
           "what time is it",
@@ -36,8 +36,18 @@
       "cheddar": "$time"
     },
     {
-      "description": "the action to ask the weather for the current location",
+      "description": "make calculation with cheese",
       "cheddar_action_id": 3,
+      "hyps": [
+          "calculation",
+          "calculate", 
+          "how much is"
+        ],
+      "cheddar": "$calculation"
+    },
+    {
+      "description": "the action to ask the weather for the current location",
+      "cheddar_action_id": 4,
       "match": [
           "what's the weather",
           "what's the weather like"
