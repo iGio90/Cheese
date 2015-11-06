@@ -29,7 +29,8 @@
       "description": "Display this list",
       "cheddar_action_id": 2,
       "match": [
-        "command list"
+        "command list",
+        "skills"
         ],
       "hyps": [
           "what can you do",
@@ -43,6 +44,7 @@
       "description": "Get the current time",
       "cheddar_action_id": 10001,
       "match": [
+          "time",
           "what time is it",
           "what's the time"
         ],
@@ -82,6 +84,7 @@
       "description": "Make calculations. Also supporting square roots, tangents and equations",
       "cheddar_action_id": 20001,
       "hyps": [
+          "calculator",
           "calculation",
           "calculate", 
           "how much is"
@@ -89,10 +92,22 @@
       "roquefort": "calc"
     },
     {
-      "name": "Weather",
-      "description": "Get the current weather",
+      "name": "Call",
+      "description": "Call someone. Support recent calls",
       "cheddar_action_id": 30001,
       "match": [
+          "call",
+          "make a call",
+          "call someone"
+        ]
+      "roquefort": "weather"
+    },
+    {
+      "name": "Weather",
+      "description": "Get the current weather",
+      "cheddar_action_id": 40001,
+      "match": [
+          "weather",
           "what's the weather",
           "what's the weather like"
         ],
