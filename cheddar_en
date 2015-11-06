@@ -11,7 +11,7 @@
       "hyps": [
           "cheese"
         ],
-      "cheddar": "Hi $name, how can I help you with?"
+      "roquefort": "hicheese"
     },
     {
       "description": "close cheese",
@@ -24,7 +24,7 @@
           "close yourself",
           "stop yourself"
         ],
-      "cheddar": "Ok. See you later $name"
+      "roquefort": "byecheese"
     },
     {
       "description": "display a list of what chees is able to do",
@@ -37,7 +37,7 @@
           "your skills",
           "your abilities"
         ],
-      "cheddar": "$skills"
+      "roquefort": "skillslist"
     },
     {
       "description": "get the time",
@@ -46,7 +46,7 @@
           "what time is it",
           "what's the time"
         ],
-      "cheddar": "$time"
+      "roquefort": "time"
     },
     {
       "description": "make calculation with cheese",
@@ -56,7 +56,7 @@
           "calculate", 
           "how much is"
         ],
-      "cheddar": "$calculation"
+      "roquefort": "calc"
     },
     {
       "description": "the action to ask the weather for the current location",
@@ -65,7 +65,7 @@
           "what's the weather",
           "what's the weather like"
         ],
-      "cheddar": "$weather"
+      "roquefort": "weather"
     }
   ]
 }
