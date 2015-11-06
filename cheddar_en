@@ -27,8 +27,21 @@
       "cheddar": "Ok. See you later $name"
     },
     {
-      "description": "get the time",
+      "description": "display a list of what chees is able to do",
       "cheddar_action_id": 2,
+      "match": [
+        "command list"
+        ],
+      "hyps": [
+          "what can you do",
+          "your skills",
+          "your abilities"
+        ],
+      "cheddar": "$skills"
+    },
+    {
+      "description": "get the time",
+      "cheddar_action_id": 10001,
       "match": [
           "what time is it",
           "what's the time"
@@ -37,7 +50,7 @@
     },
     {
       "description": "make calculation with cheese",
-      "cheddar_action_id": 3,
+      "cheddar_action_id": 10002,
       "hyps": [
           "calculation",
           "calculate", 
@@ -47,7 +60,7 @@
     },
     {
       "description": "the action to ask the weather for the current location",
-      "cheddar_action_id": 4,
+      "cheddar_action_id": 10003,
       "match": [
           "what's the weather",
           "what's the weather like"
