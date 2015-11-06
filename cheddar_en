@@ -49,9 +49,28 @@
       "roquefort": "time"
     },
     {
+      "name": "Date",
+      "description": "Get the current date",
+      "cheddar_action_id": 10002,
+      "hyps": [
+          "date"
+        ],
+      "roquefort": "date"
+    },
+    {
+      "name": "Date of tomorrow",
+      "description": "Get the date of tomorrow",
+      "cheddar_action_id": 10003,
+      "hyps": [
+          "date of tomorrow",
+          "day is tomorrow"
+        ],
+      "roquefort": "tomorrowdate"
+    },
+    {
       "name": "Calculation",
       "description": "Make calculations. Also supporting square roots, tangents and equations",
-      "cheddar_action_id": 10002,
+      "cheddar_action_id": 20001,
       "hyps": [
           "calculation",
           "calculate", 
@@ -62,7 +81,7 @@
     {
       "name": "Weather",
       "description": "Get the current weather",
-      "cheddar_action_id": 10003,
+      "cheddar_action_id": 30002,
       "match": [
           "what's the weather",
           "what's the weather like"

@@ -37,6 +37,18 @@
       ]
     },
     {
+      "roquefort_identifier": "date",
+      "roquefort": [
+        "Today is $date"
+      ]
+    },
+    {
+      "roquefort_identifier": "tomorrowdate",
+      "roquefort": [
+        "Tomorrow is $date"
+      ]
+    },
+    {
       "roquefort_identifier": "weather",
       "roquefort": [
         "$condition. The temperature outside is $temperature",
