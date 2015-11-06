@@ -55,8 +55,13 @@
       "name": "Date",
       "description": "Get the current date",
       "cheddar_action_id": 10002,
-      "hyps": [
+      "match": [
           "date"
+        ],
+      "hyps": [
+          "date is today",
+          "date of today",
+          "current date"
         ],
       "roquefort": "date"
     },
