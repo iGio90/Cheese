@@ -154,6 +154,12 @@
       ]
     },
     {
+      "roquefort_identifier": "contact_list",
+      "roquefort": [
+        "Here is the list of your contacts $name"
+      ]
+    },
+    {
       "roquefort_identifier": "call_someone",
       "roquefort": [
         "Ok, choose a contact from the list or write the number"

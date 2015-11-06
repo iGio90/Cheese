@@ -65,7 +65,7 @@
           "date is today",
           "date of today",
           "current date"
-        ],
+      ],
       "roquefort": "date"
     },
     {
@@ -76,7 +76,7 @@
           "date of tomorrow",
           "date is tomorrow",
           "day is tomorrow"
-        ],
+      ],
       "roquefort": "tomorrowdate"
     },
     {
@@ -88,21 +88,28 @@
           "calculation",
           "calculate", 
           "how much is"
-        ],
+      ],
       "roquefort": "calc"
+    },
+    {
+      "name": "Contact list",
+      "description": "Display the list of the contacts"
+      "cheddar_action_id": 30001,
+      "hyps": [
+        "contact list"
+      ],
+      "roquefort": "contactlist"
     },
     {
       "name": "Call",
       "description": "Call someone. Support recent calls",
-      "cheddar_action_id": 30001,
+      "cheddar_action_id": 30002,
       "match": [
           "call",
           "I need to make a call",
-          "I want to call someone"
-        ],
-      "hyps": [
-        "make a call"
-        ],
+          "I want to call someone",
+          "make a call"
+      ],
       "roquefort": "call_someone"
     },
     {
@@ -113,7 +120,7 @@
           "weather",
           "what's the weather",
           "what's the weather like"
-        ],
+      ],
       "roquefort": "weather"
     }
   ]
