@@ -54,6 +54,104 @@
         "$condition. The temperature outside is $temperature",
         "$temperature and $condition" 
       ]
+    },
+    {
+      "roquefort_identifier": "sky_clear_day",
+      "roquefort": [
+        "The sky is clear at the moment",
+        "It's a lovely day at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "sky_clear_night",
+      "roquefort": [
+        "The sky is clear at the moment",
+        "The stars are shining in the sky at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "few_clouds_day",
+      "roquefort": [
+        "There are a few clouds in the sky at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "few_clouds_night",
+      "roquefort": [
+        "There are a few clouds in the sky at the moment" 
+      ]
+    },
+    {
+      "roquefort_identifier": "scattered_clouds_day",
+      "roquefort": [
+        "There are some scattered clouds at the moment but the sky is mostly clear"
+      ]
+    },
+    {
+      "roquefort_identifier": "scattered_clouds_night",
+      "roquefort": [
+        "There are some scattered clouds at the moment but the sky is mostly clear"
+      ]
+    },
+    {
+      "roquefort_identifier": "broken_clouds_day",
+      "roquefort": [
+        "It's mostly cloudy at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "broken_clouds_night",
+      "roquefort": [
+        "It's mostly cloudy at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "rain_day",
+      "roquefort": [
+        "It's raining at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "rain_night",
+      "roquefort": [
+        "It's raining at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "thunderstom_day",
+      "roquefort": [
+        "There is a thunderstorm at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "thunderstom_night",
+      "roquefort": [
+        "There is a thunderstorm at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "snowing_day",
+      "roquefort": [
+        "It's snowing at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "snowing_night",
+      "roquefort": [
+        "It's snowing at the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "foggy_day",
+      "roquefort": [
+        "There is a lot of fog the moment"
+      ]
+    },
+    {
+      "roquefort_identifier": "foggy_night",
+      "roquefort": [
+        "There is a lot of fog the moment"
+      ]
     }
   ]
 }
