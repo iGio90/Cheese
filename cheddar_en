@@ -97,8 +97,11 @@
       "cheddar_action_id": 30001,
       "match": [
           "call",
-          "make a call",
-          "call someone"
+          "I need to make a call",
+          "I want to call someone"
+        ],
+      "hyps": [
+        "make a call"
         ],
       "roquefort": "call_someone"
     },
