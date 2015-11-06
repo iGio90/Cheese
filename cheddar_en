@@ -46,6 +46,9 @@
           "what time is it",
           "what's the time"
         ],
+      "hyps": [
+	  "current time"
+      ]
       "roquefort": "time"
     },
     {
@@ -63,6 +66,7 @@
       "cheddar_action_id": 10003,
       "hyps": [
           "date of tomorrow",
+          "date is tomorrow",
           "day is tomorrow"
         ],
       "roquefort": "tomorrowdate"
