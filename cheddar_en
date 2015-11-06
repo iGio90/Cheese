@@ -110,6 +110,9 @@
           "I want to call someone",
           "make a call"
       ],
+      "hyps": [
+          "call"
+      ],
       "roquefort": "call_someone"
     },
     {
