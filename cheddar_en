@@ -2,19 +2,17 @@
   "cheddar_version": 1,
   "cheddar" : [
     {
-      "description": "wake up cheese",
+      "name": "Wake up cheese",
+      "description": "Launch cheese. Also work with screen off",
       "cheddar_action_id": 0,
-      "match": [
-          "hi cheese",
-          "hey cheese"
-        ],
       "hyps": [
           "cheese"
         ],
       "roquefort": "hicheese"
     },
     {
-      "description": "close cheese",
+      "name": "Close cheese",
+      "description": "Close cheese",
       "cheddar_action_id": 1,
       "match": [
           "bye cheese",
@@ -27,7 +25,8 @@
       "roquefort": "byecheese"
     },
     {
-      "description": "display a list of what chees is able to do",
+      "name": "Cheese skills",
+      "description": "Display this list",
       "cheddar_action_id": 2,
       "match": [
         "command list"
@@ -40,7 +39,8 @@
       "roquefort": "skillslist"
     },
     {
-      "description": "get the time",
+      "name": "Time",
+      "description": "Get the current time",
       "cheddar_action_id": 10001,
       "match": [
           "what time is it",
@@ -49,7 +49,8 @@
       "roquefort": "time"
     },
     {
-      "description": "make calculation with cheese",
+      "name": "Calculation",
+      "description": "Make calculations. Also supporting square roots, tangents and equations",
       "cheddar_action_id": 10002,
       "hyps": [
           "calculation",
@@ -59,7 +60,8 @@
       "roquefort": "calc"
     },
     {
-      "description": "the action to ask the weather for the current location",
+      "name": "Weather",
+      "description": "Get the current weather",
       "cheddar_action_id": 10003,
       "match": [
           "what's the weather",
