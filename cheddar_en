@@ -5,8 +5,10 @@
       "name": "Wake up cheese",
       "description": "Launch cheese. Also work with screen off",
       "cheddar_action_id": 0,
-      "hyps": [
-          "cheese"
+      "match": [
+          "cheese",
+          "hi cheese",
+          "hey cheese",
         ],
       "roquefort": "hicheese"
     },
