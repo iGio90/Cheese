@@ -171,6 +171,13 @@
         "I found %s1 contacts. Which one I have to call?",
         "Which of the following %s1 contacts i have to call?"
       ]
+    },
+    {
+      "roquefort_identifier": "getting_location",
+      "roquefort": [
+        "Hold on $name. I'm getting your location",
+        "Give me a moment $name. I'm getting weather informations from the web"
+      ]
     }
   ]
 }
