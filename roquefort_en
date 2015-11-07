@@ -21,11 +21,11 @@
         "Here is a list of things I can do:",
         "I can do so much awesome things. Here is the list:"
       ]
-    },     
+    },
     {
       "roquefort_identifier": "time",
       "roquefort": [
-        "It's $time" 
+        "It's $time"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "roquefort_identifier": "weather",
       "roquefort": [
         "$condition. The temperature outside is $temperature",
-        "$temperature and $condition" 
+        "$temperature and $condition"
       ]
     },
     {
@@ -78,7 +78,7 @@
     {
       "roquefort_identifier": "few_clouds_night",
       "roquefort": [
-        "There are a few clouds in the sky at the moment" 
+        "There are a few clouds in the sky at the moment"
       ]
     },
     {
@@ -160,9 +160,16 @@
       ]
     },
     {
-      "roquefort_identifier": "call_someone",
+      "roquefort_identifier": "call_empty_result",
       "roquefort": [
         "Ok, choose a contact from the list or write the number"
+      ]
+    },
+    {
+      "roquefort_identifier": "call_list_result",
+      "roquefort": [
+        "I found %s1 contacts. Which one I have to call?",
+        "Which of the following %s1 contacts i have to call?"
       ]
     }
   ]

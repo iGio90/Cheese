@@ -114,8 +114,7 @@
       ],
       "hyps": [
           "call"
-      ],
-      "roquefort": "call_someone"
+      ]
     },
     {
       "name": "Weather",
