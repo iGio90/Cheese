@@ -97,6 +97,9 @@
       "name": "Contact list",
       "description": "Display the list of the contacts",
       "cheddar_action_id": 30001,
+      "match": [
+        "contacts"
+      ],
       "hyps": [
         "contact list"
       ],
