@@ -88,7 +88,7 @@
       "hyps": [
           "calculator",
           "calculation",
-          "calculate", 
+          "calculate",
           "how much is"
       ],
       "roquefort": "calc"
@@ -144,6 +144,22 @@
           "what's the weather like"
       ],
       "roquefort": "weather"
+    },
+    {
+    "name": "Search with Cheese",
+    "description": "Search and learn!",
+    "cheddar_action_id": 50001,
+    "hyps": [
+          "search"
+      ],
+    "keywords": {
+          "google": "google",
+          "images": "images",
+          "videos": "videos",
+          "news": "news",
+          "address": "address"
+      },
+    "roquefort": "search"
     }
   ]
 }

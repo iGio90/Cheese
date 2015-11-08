@@ -190,6 +190,12 @@
       "roquefort": [
         "Here is the list of your favorite contacts $name"
       ]
+    },
+    {
+      "roquefort_identifier": "search",
+      "roquefort": [
+        "I'm searching $name, hold on!"
+      ]
     }
   ]
 }
