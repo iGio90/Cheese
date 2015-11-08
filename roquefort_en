@@ -178,6 +178,18 @@
         "Hold on $name. I'm getting your location",
         "Give me a moment $name. I'm getting weather informations from the web"
       ]
+    },
+    {
+      "roquefort_identifier": "recent_calls",
+      "roquefort": [
+        "Here is the list of your recent calls $name"
+      ]
+    },
+    {
+      "roquefort_identifier": "favorite_contacts",
+      "roquefort": [
+        "Here is the list of your favorite contacts $name"
+      ]
     }
   ]
 }

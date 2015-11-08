@@ -103,17 +103,32 @@
       "roquefort": "contact_list"
     },
     {
-      "name": "Call",
-      "description": "Call someone. Support recent calls",
+      "name": "Recent calls",
+      "description": "Display the list of the recent calls",
       "cheddar_action_id": 30002,
+      "hyps": [
+        "recent calls"
+      ],
+      "roquefort": "recent_calls"
+    },
+    {
+      "name": "Favorite contacts",
+      "description": "Display the list of favorite contacts",
+      "cheddar_action_id": 30003,
+      "hyps": [
+        "favorite contacts"
+      ],
+      "roquefort": "favorite_contacts"
+    },
+    {
+      "name": "Call",
+      "description": "Call someone. You can say anything after the word 'call'. If only one match will be found, the match will be called immediatly. If the match is a phone number, that number will be called immediatly. If more contact will be found, these contact will be displayed.",
+      "cheddar_action_id": 30004,
       "match": [
           "call",
           "I need to make a call",
           "I want to call someone",
           "make a call"
-      ],
-      "hyps": [
-          "call"
       ]
     },
     {
